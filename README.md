@@ -22,32 +22,45 @@
 
 ---
 
-## 🚀 Languages & Tools
+## 🛠️ Tech Stack
 
-### Programming
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,html,css,sql" />
+</p>
 
-### Frontend
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+### ☕ Java & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
 
-### Backend
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
+**Core Java:** OOP, Collections, Multithreading, JDBC, Java 8, Stream API, Lambda Expressions, Servlets  
+**Frameworks:** Spring Boot, Hibernate, JPA  
 
-### Databases
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-
-### Tools
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-  
 ---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
+- MySQL  
+- PostgreSQL  
+- Firebase Cloud Firestore  
+- Query Optimization  
+
+---
+
+### ☁️ Tools & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,maven,postman,idea,firebase" />
+</p>
+
+- Oracle Cloud Infrastructure (OCI)  
+- Git  
+- Maven, Postman  
+- IntelliJ IDEA  
+- Firebase
 
 ## 🤝 Connect With Me
 
