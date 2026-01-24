@@ -26,7 +26,7 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,sql,js,html,css,sql,react" />
 </p>
 
 ### ☕ Java & Backend
