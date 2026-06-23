@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Om Mahajan
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+Learner;REST+API+Enthusiast;Passionate+Problem+Solver&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot;REST+API+Enthusiast;Passionate+Problem+Solver&center=true&width=550&height=45">
 </p>
 
   <a href="https://linkedin.com/in/ommahajan1" target="_blank">
